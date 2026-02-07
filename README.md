@@ -72,3 +72,4 @@ Identified vulnerability details (risk level)
 Error message or information leakage screen
 Output
 ![Image](https://github.com/user-attachments/assets/dfd479e7-6609-4ad7-9043-5c5d0ec7a669)
+![Image](https://github.com/user-attachments/assets/c4d3c570-614c-4b73-ac4c-e29e7f4cc61e)
