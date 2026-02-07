@@ -71,3 +71,4 @@ OWASP ZAP vulnerability scan results
 Identified vulnerability details (risk level)
 Error message or information leakage screen
 Output
+![Image](https://github.com/user-attachments/assets/dfd479e7-6609-4ad7-9043-5c5d0ec7a669)
