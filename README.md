@@ -75,4 +75,3 @@ Output
 ![Image](https://github.com/user-attachments/assets/c4d3c570-614c-4b73-ac4c-e29e7f4cc61e)
 ![Image](https://github.com/user-attachments/assets/36a1780b-12ab-4d49-bf29-c20c5a64e0d4)
 
-![Image](https://github.com/user-attachments/assets/51eaa61b-1ac5-402d-b041-9440a512047b)
